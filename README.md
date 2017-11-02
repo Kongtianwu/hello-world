@@ -1,2 +1,2 @@
 # hello-world
-just a testing
+Now I want to begin this project.
